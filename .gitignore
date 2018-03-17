@@ -1,7 +1,6 @@
 /node_modules
-.npm
-/npm-debug.log
-/.idea
+.idea
 /vendor
 package-lock.json
 dist/
+yarn.lock
